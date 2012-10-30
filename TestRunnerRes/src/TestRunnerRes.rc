@@ -1,0 +1,14 @@
+/*
+ * ============================================================================
+ *  File        : TestRunnerRes.rc
+ *  Author      : phalliday
+ *  Version     :
+ *  Description : TODO: Add descriptions about this file here
+ * ============================================================================
+ */
+
+#ifndef RES
+#define RES(type,var)  type type##_ID##_RES_##var##_ID
+#endif
+
+#include "opentv.h"

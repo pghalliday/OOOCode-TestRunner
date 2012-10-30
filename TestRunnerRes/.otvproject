@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<OTVProjectProperty>
+     <com.opentv.ide.sdk.core.res_gcoflag value="GCCO_FLAGS := $(GCCO_FLAGS) -O1  $(WARNINGS)"/>
+     <com.opentv.ide.sdk.core.resourceInstanceIdBase value="2000"/>
+     <com.opentv.ide.sdk.core.graphConversionTool value="bmp2rl"/>
+     <com.opentv.ide.sdk.core.graphpngExtraArgs value=""/>
+     <com.opentv.ide.sdk.core.resourceTypeIdBase value="1000"/>
+     <com.opentv.ide.sdk.core.code_compile_autodeps value="AUTODEPS :=1"/>
+     <com.opentv.ide.sdk.core.isResourceInstanceIdAllowDuplicate value=""/>
+     <com.opentv.ide.sdk.core.graphConversionToolflag value=""/>
+     <com.opentv.ide.sdk.core.code_core_version value="DEFAULT"/>
+     <com.opentv.ide.sdk.core.code_compile_macros value=""/>
+     <com.opentv.ide.sdk.core.code_compile value="COMPILER_INCLUDES2 +=  -O1   $(WARNINGS)"/>
+     <com.opentv.ide.sdk.core.graphAlpha value=""/>
+     <com.opentv.ide.sdk.core.graphDataStructure value="static"/>
+     <com.opentv.ide.sdk.core.ridFileParentProject value="TestRunner"/>
+     <com.opentv.ide.sdk.core.graphBitDepth value="4"/>
+     <com.opentv.ide.sdk.core.isResourceTypeIdAllowDuplicate value=""/>
+     <com.opentv.ide.sdk.core.graphExtraArgs value=""/>
+     <com.opentv.ide.sdk.core.graphjpgDataStructure value="static"/>
+     <com.opentv.ide.sdk.core.graphjpgExtraArgs value=""/>
+     <com.opentv.ide.sdk.core.graphpngDataStructure value="static"/>
+     <com.opentv.ide.sdk.core.code_compile_optimization value="Optimize(-O1)"/>
+     <com.opentv.ide.sdk.core.code_compile_warning value="$(WARNINGS)"/>
+     <com.opentv.ide.sdk.core.code_compile_addRefDir value="ADDREFDIR :=1"/>
+</OTVProjectProperty>
