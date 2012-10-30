@@ -1,0 +1,6 @@
+[submodule "submodules/OOOCode"]
+	path = submodules/OOOCode
+	url = https://github.com/pghalliday/OOOCode.git
+[submodule "TestRunner/submodules/OOOCode"]
+	path = TestRunner/submodules/OOOCode
+	url = https://github.com/pghalliday/OOOCode.git
