@@ -1,0 +1,3 @@
+[submodule "TestRunner/lib/OOOCode"]
+	path = TestRunner/lib/OOOCode
+	url = https://github.com/pghalliday/OOOCode.git
